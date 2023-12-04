@@ -38,6 +38,7 @@ module.exports = {
       },
 
       spacing: {
+        45: '11.25rem',
         100: '25rem',
         104: '26rem',
         108: '27rem',
@@ -66,6 +67,10 @@ module.exports = {
         192: '48rem',
         196: '49rem',
         200: '50rem'
+      },
+
+      fontSize: {
+        'title-primary': ['4rem', { lineHeight: '4rem' }]
       }
     }
   },

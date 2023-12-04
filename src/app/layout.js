@@ -3,7 +3,7 @@ import localFont from 'next/font/local';
 import './globals.css';
 
 const titleFont = localFont({
-  src: './fonts/integralCE/integralcf-regular.otf',
+  src: './fonts/integralCE/IntegralCF-Regular.woff2',
   display: 'swap',
   variable: '--font-title'
 });
